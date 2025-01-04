@@ -19,14 +19,27 @@ This project demonstrates essential concepts of asynchronous operations, event h
 ## Project Structure
 
 ```plaintext
-Alura/
+AluraGeekChallenge/
 |-- assets/
 |   |-- delete.png    # Trash icon image
-|   |-- banner.png    # Banner image for README
+|   |-- footerBackground.png
+|   |-- headerBackground.png
+|   |-- image 1.png
+|   |-- producto1.png
+|   |-- producto2.png
+|   |-- producto3.png
+|   |-- producto4.png
+|   |-- producto5.png
+|   |-- producto6.png
+|   |-- producto7.png
+|   |-- producto8.png
+|   |-- producto9.png
+|   |-- producto10.png 
 |-- APIConnection.js   # Handles API calls for fetching, adding, and deleting products
-|-- main.js            # Main application logic
+|-- ProductManager.js            # Main application logic
 index.html             # HTML structure of the application
 styles.css             # Stylesheet for the application
+db.json             # back up the API data
 ```
 
 ## Demo
