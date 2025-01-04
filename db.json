@@ -1,0 +1,74 @@
+{ 
+ "productos": [ 
+    {
+      "id": 1,
+      "nombre": "Nintendo Game Boy",
+      "precio": 60,
+      "imagen": "./assets/producto1.png",
+      "trashCanImage": "./assets/delete.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Monopoly",
+      "precio": 12,
+      "imagen": "./assets/producto2.png",
+      "trashCanImage": "./assets/delete.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Sega Genesis",
+      "precio": 100,
+      "imagen": "./assets/producto3.png",
+      "trashCanImage": "./assets/delete.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Captain Ameria Shield",
+      "precio": 200,
+      "imagen": "./assets/producto4.png",
+      "trashCanImage": "./assets/delete.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Stormtrooper",
+      "precio": 80,
+      "imagen": "./assets/producto5.png",
+      "trashCanImage": "./assets/delete.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Battlestar Galactica Poster",
+      "precio": 20,
+      "imagen": "./assets/producto6.png",
+      "trashCanImage": "./assets/delete.png"
+    },
+    {
+      "id": 7,
+      "nombre": "Jenga",
+      "precio": 12,
+      "imagen": "./assets/producto7.png",
+      "trashCanImage": "./assets/delete.png"
+    },
+    {
+      "id": 8,
+      "nombre": "Marvel Comic",
+      "precio": 20,
+      "imagen": "./assets/producto8.png",
+      "trashCanImage": "./assets/delete.png"
+    },
+    {
+      "id": 9,
+      "nombre": "Superman Comic",
+      "precio": 12,
+      "imagen": "./assets/producto9.png",
+      "trashCanImage": "./assets/delete.png"
+    },
+    {
+      "id": 10,
+      "nombre": "Green Lantern ring",
+      "precio": 30,
+      "imagen": "./assets/producto10.png",
+      "trashCanImage": "./assets/delete.png"
+    }
+  ]
+}
